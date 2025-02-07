@@ -32,6 +32,6 @@ This project helped me improve my frontend skills and gain hands-on experience i
 
 
 
-GITHUB LINK :- 
+GITHUB LINK :- https://github.com/puravdhanki/PRODIGY_WD_01
 
 NETILFY LINK :- https://root-multitude-task-01.netlify.app/# PRODIGY_WD_01
